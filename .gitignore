@@ -1,0 +1,11 @@
+# Virtualenv
+/.venv
+/venv
+
+# Editor
+/.vscode
+
+# Python compiled
+*.py[cod]
+__pycache__
+/*.egg-info
